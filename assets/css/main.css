@@ -232,9 +232,9 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin: 5px;
+		margin: 10%;
 		max-width: 100%;
-		width: 100%;
+		width: 80%;
 	}
 
 		@media screen and (max-width: 1280px) {
