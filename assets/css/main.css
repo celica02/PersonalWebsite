@@ -2275,7 +2275,7 @@ input, select, textarea {
 /* Hero */
 
 	#hero {
-		position: relative;
+/*		position: relative;*/
 		color: #fff;
 		text-align: center;
 		z-index: 1;
